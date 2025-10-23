@@ -1,0 +1,5 @@
+{
+  "name": "mediadd",
+  "description": "An AI-powered application for medical students and public awareness to analyze doctor's prescriptions, identify potential conditions, and understand medication actions.",
+  "requestFramePermissions": []
+}
